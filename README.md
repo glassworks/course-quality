@@ -85,7 +85,7 @@ L'évaluation se fera en deux parties :
   * accompagnée de supports visuels à projeter via le vidéoprojecteur.
   * La présence et la contribution de toute l'équipe est obligatoire.
 
-Le rapport écrit et la soutenance sera soumis le 15 mai 2025. Le créneau précis de votre groupe sera marqué une semaine avant la soutenance, dans le document suivant : [https://docs.google.com/spreadsheets/d/1Zdx9xEGzMMcR1m4bzxOuFuexKEIrL3WZLBEwuUxIbS4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Zdx9xEGzMMcR1m4bzxOuFuexKEIrL3WZLBEwuUxIbS4/edit?usp=sharing)
+Le rapport écrit et la soutenance sera soumis le 15 mai 2025. Le créneau précis de votre groupe sera choisi aléatoirement le 14 mai, dans le document suivant : [https://docs.google.com/spreadsheets/d/1Zdx9xEGzMMcR1m4bzxOuFuexKEIrL3WZLBEwuUxIbS4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Zdx9xEGzMMcR1m4bzxOuFuexKEIrL3WZLBEwuUxIbS4/edit?usp=sharing)
 
 ## Description des exigences
 
